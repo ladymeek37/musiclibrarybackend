@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j((u)ws9)^d_sbga^cizvr%ged3d2d0t46*9=5d$)al(s@v_6c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['musiclibrarybackend-env.eba-atv3bdfb.us-east-2.elasticbeanstalk.com']
 
 
 # Application definition
